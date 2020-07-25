@@ -2,7 +2,7 @@
 ©2019-2020 Entekorea, All rights reserved.
 
 # 개요
-- 카카오톡 봇 메이플스토리 소스입니다.
+- PC 메이플스토리의 각종 정보를 검색할 수 있는 카카오톡 봇 소스입니다.
 
 # 라이센스
 [GPL 3.0](https://github.com/entekorea/Kakao-ENTEBOT-maplestory/LICENSE)
